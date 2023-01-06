@@ -15,7 +15,7 @@
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "view-design": "^4.2.0",
     "vue-clipboard2": "^0.3.1"
   },
